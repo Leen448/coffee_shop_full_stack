@@ -1,7 +1,9 @@
-venv/
-.vscode/
-__pycache__/
+\.vscode
+backend\src\__pycache__
 test.db
+strater_code\frontend
+\starter_code\backend\.env
+
 
 # OS generated files #
 ######################
